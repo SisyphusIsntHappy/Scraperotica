@@ -1,0 +1,2 @@
+# Scraperotica
+A literotica scraper
